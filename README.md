@@ -1,3 +1,5 @@
+<img width="1066" alt="sushi-site" src="https://github.com/user-attachments/assets/2e65970e-b607-481a-ad86-01cf25c68839" />
+
 # Sushi Site
 
 A stylish sushi website featuring modern design and responsive navigation for an immersive user experience.
