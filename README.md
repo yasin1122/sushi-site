@@ -21,8 +21,6 @@ This project is a website for a sushi restaurant, showcasing appealing visuals, 
 - **CSS3** – For styling and responsive layout.
 - **JavaScript** – For interactive elements and dynamic behaviors.
 
-*(If additional libraries or frameworks are used, list them here.)*
-
 ## Getting Started
 
 ### Prerequisites
